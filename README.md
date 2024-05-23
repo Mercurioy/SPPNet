@@ -1,1 +1,1 @@
-# Spatial-Perception Fusion and Progressive Decoding Network For RGB-D Camouflaged Object Detection
+# Spatial-Perception Fusion and Progressive Refinement Network For RGB-D Camouflaged Object Detection
